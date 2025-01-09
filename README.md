@@ -1,4 +1,4 @@
-# House-Data-Analysis
+![image](https://github.com/user-attachments/assets/597e202e-f435-45b0-96ed-b9640cc43c27)# House-Data-Analysis
 
 House Price Data Analysis 🏡📊
 Welcome to the House Price Data Analysis Dashboard! This Tableau-powered project dives deep into housing market trends, delivering interactive and insightful visualizations. Whether you're a real estate enthusiast, an investor, or a data nerd, this project has something for everyone.
@@ -55,8 +55,6 @@ Interesting Findings:
 
 Homes with eco-friendly features (e.g., solar panels) have higher resale values.
 Properties near public transport hubs are 20% more expensive on average.
-📸 Dashboard Sneak Peek
-(Attach or embed your dashboard screenshot here to make it visually appealing!)
 
 🌟 Why This Project?
 This project is more than just a dashboard—it's a tool to make informed decisions in a dynamic market. Whether you’re exploring investment opportunities or simply fascinated by housing trends, this analysis has you covered.
